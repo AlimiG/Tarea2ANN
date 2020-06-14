@@ -1,0 +1,8 @@
+*.RData
+*.Rhistory
+*.RDataTmp
+/Tarea2_files
+*.docx
+*.tex
+
+*.csv
